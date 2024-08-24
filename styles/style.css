@@ -69,7 +69,7 @@ a.one:hover {
     transition: all 0.3s ease-in-out;
     padding: 20px;
     cursor: pointer;
-}
+  }
 
 .card2 img {
     width: 20px;
