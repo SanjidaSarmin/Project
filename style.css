@@ -1,0 +1,90 @@
+a.one:hover {
+    text-decoration: underline;
+  }
+
+  a.four:link {
+    color: #ff0000;
+  }
+
+  a.four:visited {
+    color: #0000ff;
+  }
+
+  a.four:hover {
+    font-family: monospace;
+  }
+  a.five:hover {
+    text-decoration: underline;
+    color:#008CBA;
+    text-align: left;
+  }
+  .a1 {
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+
+  .button {
+    background-color: #0067B8;
+    border: none;
+    color: white;
+    text-align: left;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 18px 4px 0px;
+    padding: 6px 8px;
+    cursor: pointer;
+  }
+  .button1 {
+    background-color: #0067B8;
+    border: none;
+    color: white;
+    text-align: left;
+    display: inline-block;
+    font-size: 16px;
+   
+    padding: 6px 20px;
+    cursor: pointer;
+  }
+
+  .vertical-center {
+    position: absolute;
+    top: 150px;       
+  }
+  .card1 {
+    border: none;
+    box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.2), 0 4px 8px 0 rgba(0, 0, 0, 0.19);
+    background-color:white;
+  }
+
+  .card2 {
+    width: 150px;
+    height: 130px;
+    background-color: white;
+    
+    
+    flex-direction: column;
+    align-items: center;
+   
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    padding: 20px;
+    cursor: pointer;
+}
+
+.card2 img {
+    width: 20px;
+    height: 20px;
+ 
+}
+
+.card2 a {
+    font-size: 15px;
+    color: blue;
+    margin: 0;
+    text-decoration: underline;
+}
+
+.abc:hover {
+
+  color: #008CBA;
+}
